@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+    <loc>https://navigating.art/en</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en"/>
+    <changefreq>weekly</changefreq> 
+</url>
+
+<url>
+    <loc>https://navigating.art/en/about</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/about"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/about"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/contact</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/contact"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/contact"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/imprint</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/imprint"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/imprint"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/pricing</loc>
+   <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/pricing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/pricing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/resources</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/resources"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/resources"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/services</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/services"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/services"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/solutions/archiving</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/solutions/archiving"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/solutions/archiving"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/solutions/cataloguing</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/solutions/cataloguing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/solutions/cataloguing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/magazine/cr-creation-and-publishing</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/magazine/cr-creation-and-publishing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/magazine/cr-creation-and-publishing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/terms-conditions</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/terms-conditions"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/terms-conditions"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/privacy-policy</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/privacy-policy"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/privacy-policy"/>
+    <changefreq>weekly</changefreq>
+</url> 
+
+<url>
+    <loc>https://navigating.art/en/article/digital-catalogue-raisonne/affordable</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/digital-catalogue-raisonne/affordable"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/digital-catalogue-raisonne/affordable"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/article/arttech/benefits-digital-catalogue-raisonne-archive</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/arttech/benefits-digital-catalogue-raisonne-archive"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/arttech/benefits-digital-catalogue-raisonne-archive"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/article/digital-archive/advantages</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/digital-archive/advantages"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/digital-archive/advantages"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/article/arttech/digital-art-displays</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/arttech/digital-art-displays"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/arttech/digital-art-displays"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/article/saas/digital-catalogue-raisonne-archive</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/saas/digital-catalogue-raisonne-archive"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/saas/digital-catalogue-raisonne-archive"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/event/gauguin-catalogue-raisonne</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/gauguin-catalogue-raisonne"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/gauguin-catalogue-raisonne"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/event/art-digitization</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/art-digitization"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/art-digitization"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/event/technology-art</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/technology-art"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/technology-art"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/event/creative-user-empowerment</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/creative-user-empowerment"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/creative-user-empowerment"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/create-artwork</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/create-artwork"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/create-artwork"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/add-provenance</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-provenance"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-provenance"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/add-exhibition</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-exhibition"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-exhibition"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/add-publication</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-publication"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-publication"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/enhance-scans-publication</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/enhance-scans-publication"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/enhance-scans-publication"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/tutorial/publish-artwork</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/publish-artwork"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/publish-artwork"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/en/catalogue-raisonne-as-a-service</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/catalogue-raisonne-as-a-service"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/catalogue-raisonne-as-a-service"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/about</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/about"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/about"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/contact</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/contact"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/contact"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/imprint</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/imprint"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/imprint"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/pricing</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/pricing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/pricing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/resources</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/resources"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/resources"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/services</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/services"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/services"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/solutions/archiving</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/solutions/archiving"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/solutions/archiving"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/solutions/cataloguing</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/solutions/cataloguing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/solutions/cataloguing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/magazine/cr-creation-and-publishing</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/magazine/cr-creation-and-publishing"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/magazine/cr-creation-and-publishing"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/terms-conditions</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/terms-conditions"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/terms-conditions"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/privacy-policy</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/privacy-policy"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/privacy-policy"/>
+    <changefreq>weekly</changefreq>
+</url> 
+
+<url>
+    <loc>https://navigating.art/de/article/digital-catalogue-raisonne/affordable</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/digital-catalogue-raisonne/affordable"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/digital-catalogue-raisonne/affordable"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/article/arttech/benefits-digital-catalogue-raisonne-archive</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/arttech/benefits-digital-catalogue-raisonne-archive"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/arttech/benefits-digital-catalogue-raisonne-archive"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/article/digital-archive/advantages</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/digital-archive/advantages"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/digital-archive/advantages"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/article/arttech/digital-art-displays</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/arttech/digital-art-displays"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/arttech/digital-art-displays"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/article/saas/digital-catalogue-raisonne-archive</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/article/saas/digital-catalogue-raisonne-archive"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/article/saas/digital-catalogue-raisonne-archive"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/event/gauguin-catalogue-raisonne</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/gauguin-catalogue-raisonne"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/gauguin-catalogue-raisonne"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/event/art-digitization</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/art-digitization"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/art-digitization"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/event/technology-art</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/technology-art"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/technology-art"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/event/creative-user-empowerment</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/event/creative-user-empowerment"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/event/creative-user-empowerment"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/create-artwork</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/create-artwork"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/create-artwork"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/add-provenance</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-provenance"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-provenance"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/add-exhibition</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-exhibition"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-exhibition"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/add-publication</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/add-publication"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/add-publication"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/enhance-scans-publication</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/enhance-scans-publication"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/enhance-scans-publication"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/tutorial/publish-artwork</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/tutorial/publish-artwork"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/tutorial/publish-artwork"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+<url>
+    <loc>https://navigating.art/de/catalogue-raisonne-as-a-service</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://navigating.art/de/catalogue-raisonne-as-a-service"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://navigating.art/en/catalogue-raisonne-as-a-service"/>
+    <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
+
